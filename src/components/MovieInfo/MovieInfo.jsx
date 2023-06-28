@@ -1,5 +1,4 @@
 import { Outlet, useLocation } from 'react-router-dom';
-import PropTypes from 'prop-types';
 import { routes } from 'helpers/routes';
 import { Box } from 'components';
 
